@@ -1,4 +1,6 @@
 # HyperTech-Warehouse
+## Status:
+In development (Stopped for a while)
 ## Info:
 A Java project who manage products of a warehouse.
 ## The foundation:
